@@ -14,7 +14,7 @@ This tool is intended to generate sample configuration files that will be used b
 
 By running the jar with the following parameters:
 directory_to_put_output
-java -jar smart-tasks-console-utils-1.0-SNAPSHOT-jar-with-dependencies.jar taskformconfig full_path_of_bpmn directory_to_put_output
+java -jar smart-tasks-console-utils-1.0-jar-with-dependencies.jar taskformconfig full_path_of_bpmn directory_to_put_output
 
 Where:
 taskformconfig is the identifier of this tool

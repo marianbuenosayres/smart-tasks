@@ -92,6 +92,6 @@ public class UtilsExecutor {
 		System.out.println("java -jar thejar.jar <<actionName>> <<params>>");
 		System.out.println("**Current actions:**");
 		System.out
-				.println("java -jar smart-tasks-console-utils-1.0-SNAPSHOT-jar-with-dependencies.jar taskformconfig full_path_of_bpmn directory_to_put_output");
+				.println("java -jar smart-tasks-console-utils-1.0-jar-with-dependencies.jar taskformconfig full_path_of_bpmn directory_to_put_output");
 	}
 }
